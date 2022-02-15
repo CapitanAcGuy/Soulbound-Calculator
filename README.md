@@ -1,4 +1,4 @@
-# __Soulbound Calculator__
+# __Soulbound Calculator__ ![Soulbound Calculator Icon](https://github.com/CapitanAcGuy/Soulbound-Calculator/blob/main/Soulbound%20Calculator%20Icon.ico)
 
 An unofficial app for the TTRPG [Soulbound](https://cubicle7games.com/our-games/age-of-sigmar-soulbound/) created by Cubicle 7. 
 
