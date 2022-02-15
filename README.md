@@ -4,7 +4,7 @@ An unofficial app for the TTRPG [Soulbound](https://cubicle7games.com/our-games/
 
 In its current state, __Soulbound Calculator__ focuses solely on Combat as I've found that to be the biggest issue new/newer PCs struggle with. This app will allow users to accessibly run their own Combat sims to see how their stat allocations add up.
 
-The app is designed to be open-source to for allow users to adapt __Soulbound Calculator__ to their specific needs. Want to roll 100 Attack Dice? How about even *more* damage???! I've added in lots of comments that allow for all levels of programmers to start messing with the app.
+The app is designed to be open-source to allow for users to adapt __Soulbound Calculator__ to their specific needs. Want to roll 100 Attack Dice? How about even *more* damage???! I've added in lots of comments that allow for all levels of programmers to start messing with the app.
 
 **Soulbound Calculator** is unofficial and **is not** meant to nullify Cubicle 7 releases. The intent of this app is to support a game that I love. Please support the official releases and the amazing people who make it! They consistently release free add-ons for the community and deserve the support!  
 - [Cubicle 7's official store page](https://cubicle7games.com/product-category/warhammer-aos/)
