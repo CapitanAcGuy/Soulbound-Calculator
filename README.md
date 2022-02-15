@@ -1,5 +1,5 @@
 # __Soulbound Calculator__
-***
+
 An unofficial app for the TTRPG [Soulbound](https://cubicle7games.com/our-games/age-of-sigmar-soulbound/) created by Cubicle 7. 
 
 In its current state, __Soulbound Calculator__ focuses solely on Combat as I've found that to be the biggest issue new/newer PCs struggle with. This app will allow users to accessibly run their own Combat sims to see how their stat allocations add up.
