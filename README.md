@@ -10,12 +10,12 @@ The app is designed to be open-source to for allow users to adapt __Soulbound Ca
 - [Cubicle 7's official store page](https://cubicle7games.com/product-category/warhammer-aos/)
 
 ## About Me 👋 
-***
+
 Hey, I'm Eric! 
 I've been a fan of the TTRPG genre for a bit now, starting as a PC before going into DM territory. While Soulbound has been my passion, I used to be into the [Warhammer Age of Sigmar](https://ageofsigmar.com/) TTG proper (Flesh Eater Courts, Hedonites of Slaanesh, Ironjawz, Stormcast Eternals) before 2020.
 
 ## Features ✨
-***
+
 The app currently accomodates for the following:
 - Number of Attack Dice (1-20)
 - Attack Value
@@ -27,7 +27,7 @@ The app currently accomodates for the following:
 I've added in a bunch of smaller stuff that I think users would be interested in as well. These include roll results with and without Focus, as well as average damage results called "Final Expected Damage" which is currently based off 1000 sims.
 
 ## To Do 🛠️
-***
+
 Short Term Goals (+2 xp)
 - Convert app to Python
 
@@ -36,12 +36,12 @@ Long Term Goals (+10 xp)
 - Add in accomodations for DN tests
 
 ## Installation 💻
-***
+
 __Soulbound Calculator__ is supported on the following systems:
 - Windows 10
  
 ## Resources 🤝
-***
+
 - [Flaticon.com](https://www.flaticon.com/free-icon/d20_6650095?term=dice%20d20&page=1&position=13&page=1&position=13&related_id=6650095&origin=search)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
