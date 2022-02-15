@@ -11,7 +11,8 @@ The app is designed to be open-source to for allow users to adapt __Soulbound Ca
 
 ## About Me 👋 
 
-Hey, I'm Eric! 
+Hey, I'm Eric!
+
 I've been a fan of the TTRPG genre for a bit now, starting as a PC before going into DM territory. While Soulbound has been my passion, I used to be into the [Warhammer Age of Sigmar](https://ageofsigmar.com/) TTG proper (Flesh Eater Courts, Hedonites of Slaanesh, Ironjawz, Stormcast Eternals) before 2020.
 
 ## Features ✨
