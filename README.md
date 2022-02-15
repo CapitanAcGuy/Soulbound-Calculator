@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/CapitanAcGuy/Soulbound-Calculator/main/Soulbound%20Calculator%20Icon.ico" width="28" height="28" /> __Soulbound Calculator__ 
+# __Soulbound Calculator__ 
 
 An unofficial app for the TTRPG [Soulbound](https://cubicle7games.com/our-games/age-of-sigmar-soulbound/) created by Cubicle 7. 
 
@@ -9,7 +9,7 @@ The app is designed to be open-source to allow for users to adapt __Soulbound Ca
 **Soulbound Calculator** is not official and is meant to supplement Cubicle 7 releases. Please support the official releases and the amazing people who make it! They consistently release free add-ons for the community and deserve the love!  
 - [Cubicle 7's official store page](https://cubicle7games.com/product-category/warhammer-aos/)
 
-## About Me 👋 
+## About Me 👋 <img src="https://raw.githubusercontent.com/CapitanAcGuy/Soulbound-Calculator/main/Soulbound%20Calculator%20Icon.ico" width="28" height="28" /> 
 
 Hey, I'm Eric!
 
