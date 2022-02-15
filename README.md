@@ -25,7 +25,7 @@ The app currently accomodates for the following:
 - Weapon Damage (0-9)
 - Armor (0-9)
 
-I've added in a bunch of smaller stuff as well that I think users would be interested in like roll results with and without Focus, and an average damage referred to as "Final Expected Damage" (based off 1000 sims).
+I've added in a bunch of smaller stuff as well that I think would interest users like roll results with and without Focus, and an average damage referred to as "Final Expected Damage" (based off 1000 sims).
 
 ## To Do 🛠️
 
